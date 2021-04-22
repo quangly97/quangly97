@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Quang Ly 👋</h1>
 
-<p>I am located in Toronto, Ontario, Canada. I graduated from Ryerson University as an Electrical Engineer, however I am currently working as a Software Developer for IBM in Markham, Ontario, Canada. I specialize in DevOps and use Red Hat OpenShift for IBM Cloud where I work with continuous integration, testing and deployment </p>
+<p>I am located in Toronto, Ontario, Canada. I graduated from Ryerson University as an Electrical Engineer, however I am currently working as a Software Developer for IBM in Markham, Ontario, Canada. I specialize in DevOps and use Red Hat OpenShift for IBM Cloud where I work with continuous integration, testing and deployments. </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
